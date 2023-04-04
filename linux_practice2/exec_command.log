@@ -1,0 +1,154 @@
+    1  
+    2  /c
+    3  [2;2~
+    4  exit
+    5  cd /root
+    6  pwd
+    7  ls
+    8  cd server_lesson
+    9  ls
+   10  cd README.md
+   11  cd /README.md
+   12  ls
+   13  cd README.md
+   14  cd /README.md
+   15  vi README.md
+   16  ls
+   17  ls
+   18  mkdir linux_practice2
+   19  ls
+   20  cd  linux_practice2
+   21  mkdir documents
+   22  ls
+   23  cd documents
+   24  ls
+   25  touch gizumo{01..50}.md
+   26  ls
+   27  cd ..
+   28  touch ,gitignore
+   29  ls
+   30  mkdir trash
+   31  ls
+   32  cd trash
+   33* 
+   34  cd ..
+   35  ls
+   36  mv documents/gizumo{20..40}.md -t trash
+   37  ls
+   38  ls trash
+   39  vi .gitignore
+   40  ls
+   41  vi .gitignore
+   42  vi .gitignore
+   43  vi .gitignore
+   44  vi .gitignore
+   45  ls
+   46  git ls-files
+   47  git ls-files --others
+   48  ls
+   49  ls trash
+   50  ls gitignore
+   51  ls documents
+   52  ls trash
+   53  vi .gitignore
+   54  vi .gitignore
+   55  git ls-files --others
+   56  vi .gitignore
+   57  git ls-files --others
+   58  ls
+   59  ls documents
+   60  ls trash
+   61  ls
+   62  vi .gitignore
+   63  git status --ignored
+   64  cd ..
+   65  ls
+   66  git status --ignored
+   67  git ls-files --others
+   68  ls
+   69  ls linux_practice1
+   70  ls public
+   71  cd public
+   72  ls
+   73  cd linux_practice2
+   74  ls
+   75  cd documents
+   76  ls
+   77  cd trash
+   78  cd ..
+   79  cd trash
+   80  ls
+   81  cd ..
+   82  ls
+   83  touch .gitignore
+   84  ls
+   85  ls
+   86  touch .gitignore
+   87  ls
+   88  ls
+   89  vi .gitignore
+   90  ls
+   91  git ls-files --others
+   92  vi .gitignore
+   93  ls
+   94  git ls-files --others
+   95  git ls-files
+   96  cd ..
+   97  cd ..
+   98  cd server_lesson
+   99  git ls-files
+  100  git ls-files --others
+  101  git init
+  102  git ls-files --others
+  103  git ls-files
+  104  git version
+  105  git init
+  106  git ls-files --others
+  107  cd ..
+  108  git  status --ignored
+  109  git  status --ignored
+  110  git ls-files --others
+  111  sarver_lesson
+  112  cd saver_lesson
+  113  cd /saver_lesson
+  114  pwd
+  115  cd server_lesson
+  116  ls
+  117  git status --ignored
+  118  git ls-files
+  119  git ls-files --others
+  120  vi .gitignore
+  121  ls
+  122  cd linix_practice2
+  123  ls
+  124  cd linux_practice2
+  125  ls
+  126  vi .gitignore
+  127  ls
+  128  cd ..
+  129  cd linux_practice1
+  130  ls
+  131  git status
+  132  cd ..
+  133  git ls-files
+  134  cd ..
+  135  git ls-files
+  136  cd server_lesson
+  137  git ls-files
+  138  git ls-files --others
+  139  git init
+  140  git ls-files
+  141  ls
+  142  git status
+  143  history 300
+  144  linux_practice2
+  145  cd linux_practice2
+  146  touch exec_command.log
+  147  ls
+  148  mv history 300 exec_command.log
+  149  ls
+  150  histry 300 >> exec_command.log
+  151  ls
+  152  histry 300
+  153  history 300
+  154  history 300 >> exec_command.log
